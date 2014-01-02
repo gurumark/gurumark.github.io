@@ -1,0 +1,17 @@
+---
+layout: emd_product
+status: publish
+published: true
+title: 2002 Yamaha YZR M1 - S50_4713
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: Features rotating wheels , working kick stand. Comes with stand.
+wordpress_id: 11718
+wordpress_url: http://wordpressc.com/?emd_product=2002-yamaha-yzr-m1
+date: 2013-11-14 10:00:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+Features rotating wheels , working kick stand. Comes with stand.

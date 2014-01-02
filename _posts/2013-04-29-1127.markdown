@@ -1,0 +1,17 @@
+---
+layout: emd_issue
+status: publish
+published: true
+title: '#1127'
+author: Project Manager
+author_login: issues-pm
+author_email: issues-pm@emarketdesign.com
+excerpt: wp-postratings
+wordpress_id: 13444
+wordpress_url: http://wordpressc.com/emd_issue/1127/
+date: 2013-04-29 02:56:49.000000000 -04:00
+categories: []
+tags: []
+comments: []
+---
+Proxy IP authentication / multiple vote issue with WP-PostRatings

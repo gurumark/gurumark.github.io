@@ -1,0 +1,26 @@
+---
+layout: emd_employee
+status: publish
+published: true
+title: '1002'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: |-
+  FIRST NAME: Diane
+  LAST NAME: Murphy
+  OFFICE: 1
+  JOB TITLE: President
+  EMAIL: dmurphy@classicmodelcars.com
+wordpress_id: 11862
+wordpress_url: http://wordpressc.com/?emd_employee=1002
+date: 2013-11-14 16:42:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+FIRST NAME: Diane
+LAST NAME: Murphy
+OFFICE: 1
+JOB TITLE: President
+EMAIL: dmurphy@classicmodelcars.com

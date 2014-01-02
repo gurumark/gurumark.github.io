@@ -1,0 +1,18 @@
+---
+layout: emd_product
+status: publish
+published: true
+title: 1960 BSA Gold Star DBD34 - S24_2000
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: Detailed scale replica with working suspension and constructed from over
+  70 parts
+wordpress_id: 11684
+wordpress_url: http://wordpressc.com/?emd_product=1960-bsa-gold-star-dbd34
+date: 2013-11-14 00:15:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+Detailed scale replica with working suspension and constructed from over 70 parts

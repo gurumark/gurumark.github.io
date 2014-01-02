@@ -1,0 +1,26 @@
+---
+layout: emd_employee
+status: publish
+published: true
+title: '1619'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: |-
+  FIRST NAME: Tom
+  LAST NAME: King
+  OFFICE: 6
+  JOB TITLE: Sales Rep
+  EMAIL: tking@classicmodelcars.com
+wordpress_id: 11881
+wordpress_url: http://wordpressc.com/?emd_employee=1619
+date: 2013-11-15 02:59:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+FIRST NAME: Tom
+LAST NAME: King
+OFFICE: 6
+JOB TITLE: Sales Rep
+EMAIL: tking@classicmodelcars.com

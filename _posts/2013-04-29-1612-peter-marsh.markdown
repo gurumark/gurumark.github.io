@@ -1,0 +1,17 @@
+---
+layout: emd_member
+status: publish
+published: true
+title: 1612 - Peter Marsh
+author: Project Manager
+author_login: issues-pm
+author_email: issues-pm@emarketdesign.com
+excerpt: <br><b>First Name:</b>Peter<br><b>Last Name:</b>Marsh<br><b>Ext:</b>x102
+wordpress_id: 13368
+wordpress_url: http://wordpressc.com/emd_member/1612-peter-marsh/
+date: 2013-04-29 01:19:29.000000000 -04:00
+categories: []
+tags: []
+comments: []
+---
+<b>Employee Number:</b>1612<br><b>First Name:</b>Peter<br><b>Last Name:</b>Marsh<br><b>Ext:</b>x102<br><b>Job Title:</b>Sales Rep<br><b>Email:</b>pmarsh@classicmodelcars.com

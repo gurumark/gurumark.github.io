@@ -1,0 +1,26 @@
+---
+layout: emd_office
+status: publish
+published: true
+title: '2'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: |-
+  OFFICE CODE: 2
+  PHONE: +1 215 837 0825
+  CITY: Boston
+  STATE: MA
+  TERRITORY: NA
+wordpress_id: 11856
+wordpress_url: http://wordpressc.com/?emd_office=2
+date: 2013-11-14 00:02:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+OFFICE CODE: 2
+PHONE: +1 215 837 0825
+CITY: Boston
+STATE: MA
+TERRITORY: NA

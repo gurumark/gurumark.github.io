@@ -1,0 +1,18 @@
+---
+layout: emd_product
+status: publish
+published: true
+title: 1962 LanciaA Delta 16V - S10_4962
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: 'Features include: Turnable front wheels; steering function; detailed interior;
+  detailed engine; opening hood; opening trunk; opening doors; and detailed chassis.'
+wordpress_id: 11628
+wordpress_url: http://wordpressc.com/?emd_product=1962-lanciaa-delta-16v
+date: 2013-11-18 17:11:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+Features include: Turnable front wheels; steering function; detailed interior; detailed engine; opening hood; opening trunk; opening doors; and detailed chassis.

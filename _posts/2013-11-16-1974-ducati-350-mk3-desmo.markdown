@@ -1,0 +1,18 @@
+---
+layout: emd_product
+status: publish
+published: true
+title: 1974 Ducati 350 Mk3 Desmo - S32_4485
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: This model features two-tone paint with chrome accents, superior die-cast
+  detail , rotating wheels , working kick stand
+wordpress_id: 11714
+wordpress_url: http://wordpressc.com/?emd_product=1974-ducati-350-mk3-desmo
+date: 2013-11-16 07:41:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+This model features two-tone paint with chrome accents, superior die-cast detail , rotating wheels , working kick stand

@@ -1,0 +1,22 @@
+---
+layout: emd_customer
+status: publish
+published: true
+title: Mit Vergn
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: "CUSTOMER NUMBER: 477\nFIRST NAME: Hanna \nLAST NAME: Moos\nPHONE: 0621-08555\nCREDIT
+  LIMIT: 0"
+wordpress_id: 11846
+wordpress_url: http://wordpressc.com/?emd_customer=mit-vergn
+date: 2013-11-14 07:57:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+CUSTOMER NUMBER: 477
+FIRST NAME: Hanna 
+LAST NAME: Moos
+PHONE: 0621-08555
+CREDIT LIMIT: 0

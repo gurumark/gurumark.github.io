@@ -1,0 +1,21 @@
+---
+layout: emd_product
+status: publish
+published: true
+title: 2002 Suzuki XREO - S12_2823
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: Official logos and insignias, saddle bags located on side of motorcycle,
+  detailed engine, working steering, working suspension, two leather seats, luggage
+  rack, dual exhaust pipes, small saddle bag located on handle bars, two-tone paint
+  with chrome accents, superior die-cast detail , rotating wheels , working kick stand,
+  diecast metal with plastic parts and baked enamel finish.
+wordpress_id: 11632
+wordpress_url: http://wordpressc.com/?emd_product=2002-suzuki-xreo
+date: 2013-11-20 22:37:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+Official logos and insignias, saddle bags located on side of motorcycle, detailed engine, working steering, working suspension, two leather seats, luggage rack, dual exhaust pipes, small saddle bag located on handle bars, two-tone paint with chrome accents, superior die-cast detail , rotating wheels , working kick stand, diecast metal with plastic parts and baked enamel finish.

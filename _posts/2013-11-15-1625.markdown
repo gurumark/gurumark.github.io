@@ -1,0 +1,26 @@
+---
+layout: emd_employee
+status: publish
+published: true
+title: '1625'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: |-
+  FIRST NAME: Yoshimi
+  LAST NAME: Kato
+  OFFICE: 5
+  JOB TITLE: Sales Rep
+  EMAIL: ykato@classicmodelcars.com
+wordpress_id: 11883
+wordpress_url: http://wordpressc.com/?emd_employee=1625
+date: 2013-11-15 03:05:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+FIRST NAME: Yoshimi
+LAST NAME: Kato
+OFFICE: 5
+JOB TITLE: Sales Rep
+EMAIL: ykato@classicmodelcars.com

@@ -1,0 +1,17 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+title: Customers List - View
+author: SteelWheels Admin
+author_login: sw-admin
+author_email: demo@emarketdesign.com
+excerpt: Customers List - View
+wordpress_id: 626
+wordpress_url: http://wordpressc.com/?p=626
+date: 2013-03-22 02:57:42.000000000 -04:00
+categories: []
+tags: []
+comments: []
+---
+

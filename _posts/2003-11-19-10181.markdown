@@ -1,0 +1,26 @@
+---
+layout: emd_order
+status: publish
+published: true
+title: '10181'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: |-
+  ORDER NUMBER: 10181
+  ORDER DATE: 2003-11-12 00:00:00
+  REQUIRED DATE: 2003-11-19 00:00:00
+  SHIPPED DATE: 2003-11-15 00:00:00
+  STATUS: Shipped
+wordpress_id: 11378
+wordpress_url: http://wordpressc.com/?emd_order=10181
+date: 2003-11-19 01:41:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+ORDER NUMBER: 10181
+ORDER DATE: 2003-11-12 00:00:00
+REQUIRED DATE: 2003-11-19 00:00:00
+SHIPPED DATE: 2003-11-15 00:00:00
+STATUS: Shipped

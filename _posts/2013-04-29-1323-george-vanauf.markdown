@@ -1,0 +1,17 @@
+---
+layout: emd_member
+status: publish
+published: true
+title: 1323 - George Vanauf
+author: Project Manager
+author_login: issues-pm
+author_email: issues-pm@emarketdesign.com
+excerpt: <br><b>First Name:</b>George<br><b>Last Name:</b>Vanauf<br><b>Ext:</b>x4102
+wordpress_id: 13361
+wordpress_url: http://wordpressc.com/emd_member/1323-george-vanauf/
+date: 2013-04-29 01:19:27.000000000 -04:00
+categories: []
+tags: []
+comments: []
+---
+<b>Employee Number:</b>1323<br><b>First Name:</b>George<br><b>Last Name:</b>Vanauf<br><b>Ext:</b>x4102<br><b>Job Title:</b>Sales Rep<br><b>Email:</b>gvanauf@classicmodelcars.com

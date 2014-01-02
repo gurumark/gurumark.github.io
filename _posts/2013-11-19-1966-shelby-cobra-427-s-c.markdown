@@ -1,0 +1,19 @@
+---
+layout: emd_product
+status: publish
+published: true
+title: 1966 Shelby Cobra 427 S/C - S24_1628
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: This diecast model of the 1966 Shelby Cobra 427 S/C includes many authentic
+  details and operating parts. The 1:24 scale model of this iconic lighweight sports
+  car from the 1960s comes in silver and it's own display case.
+wordpress_id: 11681
+wordpress_url: http://wordpressc.com/?emd_product=1966-shelby-cobra-427-s-c
+date: 2013-11-19 16:37:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+This diecast model of the 1966 Shelby Cobra 427 S/C includes many authentic details and operating parts. The 1:24 scale model of this iconic lighweight sports car from the 1960s comes in silver and it's own display case.

@@ -1,0 +1,20 @@
+---
+layout: emd_product
+status: publish
+published: true
+title: 1970 Chevy Chevelle SS 454 - S24_1046
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: This model features rotating wheels, working streering system and opening
+  doors. All parts are particularly delicate due to their precise scale and require
+  special care and attention. It should not be picked up by the doors, roof, hood
+  or trunk.
+wordpress_id: 11678
+wordpress_url: http://wordpressc.com/?emd_product=1970-chevy-chevelle-ss-454
+date: 2013-11-14 16:45:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+This model features rotating wheels, working streering system and opening doors. All parts are particularly delicate due to their precise scale and require special care and attention. It should not be picked up by the doors, roof, hood or trunk.

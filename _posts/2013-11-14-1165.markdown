@@ -1,0 +1,26 @@
+---
+layout: emd_employee
+status: publish
+published: true
+title: '1165'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: |-
+  FIRST NAME: Leslie
+  LAST NAME: Jennings
+  OFFICE: 1
+  JOB TITLE: Sales Rep
+  EMAIL: ljennings@classicmodelcars.com
+wordpress_id: 11868
+wordpress_url: http://wordpressc.com/?emd_employee=1165
+date: 2013-11-14 19:25:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+FIRST NAME: Leslie
+LAST NAME: Jennings
+OFFICE: 1
+JOB TITLE: Sales Rep
+EMAIL: ljennings@classicmodelcars.com

@@ -1,0 +1,22 @@
+---
+layout: emd_office
+status: publish
+published: true
+title: '4'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: "OFFICE CODE: 4\nPHONE: +33 14 723 4404\nCITY: Paris\nSTATE: \nTERRITORY:
+  EMEA"
+wordpress_id: 11858
+wordpress_url: http://wordpressc.com/?emd_office=4
+date: 2013-11-14 00:04:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+OFFICE CODE: 4
+PHONE: +33 14 723 4404
+CITY: Paris
+STATE: 
+TERRITORY: EMEA

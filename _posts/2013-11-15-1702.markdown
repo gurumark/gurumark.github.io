@@ -1,0 +1,26 @@
+---
+layout: emd_employee
+status: publish
+published: true
+title: '1702'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: |-
+  FIRST NAME: Martin
+  LAST NAME: Gerard
+  OFFICE: 4
+  JOB TITLE: Sales Rep
+  EMAIL: mgerard@classicmodelcars.com
+wordpress_id: 11884
+wordpress_url: http://wordpressc.com/?emd_employee=1702
+date: 2013-11-15 04:22:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+FIRST NAME: Martin
+LAST NAME: Gerard
+OFFICE: 4
+JOB TITLE: Sales Rep
+EMAIL: mgerard@classicmodelcars.com

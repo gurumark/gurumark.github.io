@@ -1,0 +1,26 @@
+---
+layout: emd_order
+status: publish
+published: true
+title: '10417'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: |-
+  ORDER NUMBER: 10417
+  ORDER DATE: 2005-05-13 00:00:00
+  REQUIRED DATE: 2005-05-19 00:00:00
+  SHIPPED DATE: 2005-05-19 00:00:00
+  STATUS: Disputed
+wordpress_id: 11614
+wordpress_url: http://wordpressc.com/?emd_order=10417
+date: 2005-05-20 05:37:00.000000000 -04:00
+categories: []
+tags: []
+comments: []
+---
+ORDER NUMBER: 10417
+ORDER DATE: 2005-05-13 00:00:00
+REQUIRED DATE: 2005-05-19 00:00:00
+SHIPPED DATE: 2005-05-19 00:00:00
+STATUS: Disputed

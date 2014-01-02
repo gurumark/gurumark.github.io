@@ -1,0 +1,18 @@
+---
+layout: emd_product
+status: publish
+published: true
+title: 1934 Ford V8 Coupe - S18_2957
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: Chrome Trim, Chrome Grille, Opening Hood, Opening Doors, Opening Trunk, Detailed
+  Engine, Working Steering System
+wordpress_id: 11658
+wordpress_url: http://wordpressc.com/?emd_product=1934-ford-v8-coupe
+date: 2013-11-17 22:09:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+Chrome Trim, Chrome Grille, Opening Hood, Opening Doors, Opening Trunk, Detailed Engine, Working Steering System

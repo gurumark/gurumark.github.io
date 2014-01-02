@@ -1,0 +1,26 @@
+---
+layout: emd_employee
+status: publish
+published: true
+title: '1188'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: |-
+  FIRST NAME: Julie
+  LAST NAME: Firrelli
+  OFFICE: 2
+  JOB TITLE: Sales Rep
+  EMAIL: jfirrelli@classicmodelcars.com
+wordpress_id: 11870
+wordpress_url: http://wordpressc.com/?emd_employee=1188
+date: 2013-11-14 19:48:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+FIRST NAME: Julie
+LAST NAME: Firrelli
+OFFICE: 2
+JOB TITLE: Sales Rep
+EMAIL: jfirrelli@classicmodelcars.com

@@ -1,0 +1,17 @@
+---
+layout: emd_member
+status: publish
+published: true
+title: 1501 - Larry Bott
+author: Project Manager
+author_login: issues-pm
+author_email: issues-pm@emarketdesign.com
+excerpt: <br><b>First Name:</b>Larry<br><b>Last Name:</b>Bott<br><b>Ext:</b>x2311
+wordpress_id: 13365
+wordpress_url: http://wordpressc.com/emd_member/1501-larry-bott/
+date: 2013-04-29 01:19:28.000000000 -04:00
+categories: []
+tags: []
+comments: []
+---
+<b>Employee Number:</b>1501<br><b>First Name:</b>Larry<br><b>Last Name:</b>Bott<br><b>Ext:</b>x2311<br><b>Job Title:</b>Sales Rep<br><b>Email:</b>lbott@classicmodelcars.com

@@ -1,0 +1,22 @@
+---
+layout: emd_order
+status: publish
+published: true
+title: '10334'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: "ORDER NUMBER: 10334\nORDER DATE: 2004-11-19 00:00:00\nREQUIRED DATE: 2004-11-28
+  00:00:00\nSHIPPED DATE: \nSTATUS: On Hold"
+wordpress_id: 11531
+wordpress_url: http://wordpressc.com/?emd_order=10334
+date: 2004-11-26 04:14:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+ORDER NUMBER: 10334
+ORDER DATE: 2004-11-19 00:00:00
+REQUIRED DATE: 2004-11-28 00:00:00
+SHIPPED DATE: 
+STATUS: On Hold

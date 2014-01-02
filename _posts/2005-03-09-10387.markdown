@@ -1,0 +1,26 @@
+---
+layout: emd_order
+status: publish
+published: true
+title: '10387'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: |-
+  ORDER NUMBER: 10387
+  ORDER DATE: 2005-03-02 00:00:00
+  REQUIRED DATE: 2005-03-09 00:00:00
+  SHIPPED DATE: 2005-03-06 00:00:00
+  STATUS: Shipped
+wordpress_id: 11584
+wordpress_url: http://wordpressc.com/?emd_order=10387
+date: 2005-03-09 05:07:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+ORDER NUMBER: 10387
+ORDER DATE: 2005-03-02 00:00:00
+REQUIRED DATE: 2005-03-09 00:00:00
+SHIPPED DATE: 2005-03-06 00:00:00
+STATUS: Shipped

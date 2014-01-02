@@ -1,0 +1,22 @@
+---
+layout: emd_customer
+status: publish
+published: true
+title: Qu
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: "CUSTOMER NUMBER: 233\nFIRST NAME: Jean \nLAST NAME: Fresni\nPHONE: (514)
+  555-8054\nCREDIT LIMIT: 48700"
+wordpress_id: 11776
+wordpress_url: http://wordpressc.com/?emd_customer=qu
+date: 2013-11-14 03:53:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+CUSTOMER NUMBER: 233
+FIRST NAME: Jean 
+LAST NAME: Fresni
+PHONE: (514) 555-8054
+CREDIT LIMIT: 48700

@@ -1,0 +1,17 @@
+---
+layout: emd_product
+status: publish
+published: true
+title: P-51-D Mustang - S18_2581
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: Has retractable wheels and comes with a stand
+wordpress_id: 11653
+wordpress_url: http://wordpressc.com/?emd_product=p-51-d-mustang
+date: 2013-11-14 16:32:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+Has retractable wheels and comes with a stand

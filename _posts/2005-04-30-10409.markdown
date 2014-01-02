@@ -1,0 +1,26 @@
+---
+layout: emd_order
+status: publish
+published: true
+title: '10409'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: |-
+  ORDER NUMBER: 10409
+  ORDER DATE: 2005-04-23 00:00:00
+  REQUIRED DATE: 2005-05-05 00:00:00
+  SHIPPED DATE: 2005-04-24 00:00:00
+  STATUS: Shipped
+wordpress_id: 11606
+wordpress_url: http://wordpressc.com/?emd_order=10409
+date: 2005-04-30 05:29:00.000000000 -04:00
+categories: []
+tags: []
+comments: []
+---
+ORDER NUMBER: 10409
+ORDER DATE: 2005-04-23 00:00:00
+REQUIRED DATE: 2005-05-05 00:00:00
+SHIPPED DATE: 2005-04-24 00:00:00
+STATUS: Shipped

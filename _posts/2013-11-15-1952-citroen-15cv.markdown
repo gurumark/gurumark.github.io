@@ -1,0 +1,20 @@
+---
+layout: emd_product
+status: publish
+published: true
+title: 1952 Citroen-15CV - S24_2887
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: Precision crafted hand-assembled 1:18 scale reproduction of the 1952 15CV,
+  with its independent spring suspension, working steering system, opening doors and
+  hood, detailed engine and instrument panel, all topped of with a factory fresh baked
+  enamel finish.
+wordpress_id: 11692
+wordpress_url: http://wordpressc.com/?emd_product=1952-citroen-15cv
+date: 2013-11-15 00:12:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+Precision crafted hand-assembled 1:18 scale reproduction of the 1952 15CV, with its independent spring suspension, working steering system, opening doors and hood, detailed engine and instrument panel, all topped of with a factory fresh baked enamel finish.

@@ -1,0 +1,18 @@
+---
+layout: emd_product
+status: publish
+published: true
+title: 1995 Honda Civic - S18_1984
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: This model features, opening hood, opening doors, detailed engine, rear spoiler,
+  opening trunk, working steering, tinted windows, baked enamel finish. Color yellow.
+wordpress_id: 11647
+wordpress_url: http://wordpressc.com/?emd_product=1995-honda-civic
+date: 2013-11-20 18:52:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+This model features, opening hood, opening doors, detailed engine, rear spoiler, opening trunk, working steering, tinted windows, baked enamel finish. Color yellow.

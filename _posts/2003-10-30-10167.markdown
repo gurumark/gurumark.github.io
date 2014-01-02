@@ -1,0 +1,22 @@
+---
+layout: emd_order
+status: publish
+published: true
+title: '10167'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: "ORDER NUMBER: 10167\nORDER DATE: 2003-10-23 00:00:00\nREQUIRED DATE: 2003-10-30
+  00:00:00\nSHIPPED DATE: \nSTATUS: Cancelled"
+wordpress_id: 11364
+wordpress_url: http://wordpressc.com/?emd_order=10167
+date: 2003-10-30 01:27:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+ORDER NUMBER: 10167
+ORDER DATE: 2003-10-23 00:00:00
+REQUIRED DATE: 2003-10-30 00:00:00
+SHIPPED DATE: 
+STATUS: Cancelled

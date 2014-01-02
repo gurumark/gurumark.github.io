@@ -1,0 +1,26 @@
+---
+layout: emd_employee
+status: publish
+published: true
+title: '1076'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: |-
+  FIRST NAME: Jeff
+  LAST NAME: Firrelli
+  OFFICE: 1
+  JOB TITLE: VP Marketing
+  EMAIL: jfirrelli@classicmodelcars.com
+wordpress_id: 11864
+wordpress_url: http://wordpressc.com/?emd_employee=1076
+date: 2013-11-14 17:56:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+FIRST NAME: Jeff
+LAST NAME: Firrelli
+OFFICE: 1
+JOB TITLE: VP Marketing
+EMAIL: jfirrelli@classicmodelcars.com

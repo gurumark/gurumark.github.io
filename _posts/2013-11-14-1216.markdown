@@ -1,0 +1,26 @@
+---
+layout: emd_employee
+status: publish
+published: true
+title: '1216'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: |-
+  FIRST NAME: Steve
+  LAST NAME: Patterson
+  OFFICE: 2
+  JOB TITLE: Sales Rep
+  EMAIL: spatterson@classicmodelcars.com
+wordpress_id: 11871
+wordpress_url: http://wordpressc.com/?emd_employee=1216
+date: 2013-11-14 20:16:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+FIRST NAME: Steve
+LAST NAME: Patterson
+OFFICE: 2
+JOB TITLE: Sales Rep
+EMAIL: spatterson@classicmodelcars.com

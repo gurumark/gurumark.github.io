@@ -1,0 +1,26 @@
+---
+layout: emd_order
+status: publish
+published: true
+title: '10360'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: |-
+  ORDER NUMBER: 10360
+  ORDER DATE: 2004-12-16 00:00:00
+  REQUIRED DATE: 2004-12-22 00:00:00
+  SHIPPED DATE: 2004-12-18 00:00:00
+  STATUS: Shipped
+wordpress_id: 11557
+wordpress_url: http://wordpressc.com/?emd_order=10360
+date: 2004-12-23 04:40:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+ORDER NUMBER: 10360
+ORDER DATE: 2004-12-16 00:00:00
+REQUIRED DATE: 2004-12-22 00:00:00
+SHIPPED DATE: 2004-12-18 00:00:00
+STATUS: Shipped

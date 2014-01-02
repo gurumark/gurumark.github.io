@@ -1,0 +1,17 @@
+---
+layout: emd_member
+status: publish
+published: true
+title: 1143 - Anthony Bow
+author: Project Manager
+author_login: issues-pm
+author_email: issues-pm@emarketdesign.com
+excerpt: <br><b>First Name:</b>Anthony<br><b>Last Name:</b>Bow<br><b>Ext:</b>x5428
+wordpress_id: 13355
+wordpress_url: http://wordpressc.com/emd_member/1143-anthony-bow/
+date: 2013-04-29 01:19:25.000000000 -04:00
+categories: []
+tags: []
+comments: []
+---
+<b>Employee Number:</b>1143<br><b>First Name:</b>Anthony<br><b>Last Name:</b>Bow<br><b>Ext:</b>x5428<br><b>Job Title:</b>Sales Manager (NA)<br><b>Email:</b>abow@classicmodelcars.com

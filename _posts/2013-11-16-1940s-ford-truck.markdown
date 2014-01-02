@@ -1,0 +1,20 @@
+---
+layout: emd_product
+status: publish
+published: true
+title: 1940s Ford truck - S18_4600
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: This 1940s Ford Pick-Up truck is re-created in 1:18 scale of original 1940s
+  Ford truck. This antique style metal 1940s Ford Flatbed truck is all hand-assembled.
+  This collectible 1940's Pick-Up truck is painted in classic dark green color, and
+  features rotating wheels.
+wordpress_id: 11674
+wordpress_url: http://wordpressc.com/?emd_product=1940s-ford-truck
+date: 2013-11-16 04:08:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+This 1940s Ford Pick-Up truck is re-created in 1:18 scale of original 1940s Ford truck. This antique style metal 1940s Ford Flatbed truck is all hand-assembled. This collectible 1940's Pick-Up truck is painted in classic dark green color, and features rotating wheels.

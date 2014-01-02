@@ -1,0 +1,17 @@
+---
+layout: emd_product
+status: publish
+published: true
+title: F/A 18 Hornet 1/72 - S700_3167
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: 10" Wingspan with retractable landing gears.Comes with pilot
+wordpress_id: 11727
+wordpress_url: http://wordpressc.com/?emd_product=f-a-18-hornet-1-72
+date: 2013-11-14 09:11:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+10" Wingspan with retractable landing gears.Comes with pilot

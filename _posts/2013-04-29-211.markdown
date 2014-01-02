@@ -1,0 +1,17 @@
+---
+layout: emd_issue
+status: publish
+published: true
+title: '#211'
+author: Project Manager
+author_login: issues-pm
+author_email: issues-pm@emarketdesign.com
+excerpt: post-location
+wordpress_id: 13384
+wordpress_url: http://wordpressc.com/emd_issue/211/
+date: 2013-04-29 02:56:19.000000000 -04:00
+categories: []
+tags: []
+comments: []
+---
+postlocation --&gt;Do not work ... Fatal Error

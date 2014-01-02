@@ -1,0 +1,26 @@
+---
+layout: emd_employee
+status: publish
+published: true
+title: '1143'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: |-
+  FIRST NAME: Anthony
+  LAST NAME: Bow
+  OFFICE: 1
+  JOB TITLE: Sales Manager (NA)
+  EMAIL: abow@classicmodelcars.com
+wordpress_id: 11867
+wordpress_url: http://wordpressc.com/?emd_employee=1143
+date: 2013-11-14 19:03:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+FIRST NAME: Anthony
+LAST NAME: Bow
+OFFICE: 1
+JOB TITLE: Sales Manager (NA)
+EMAIL: abow@classicmodelcars.com

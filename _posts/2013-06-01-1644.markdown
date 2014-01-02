@@ -1,0 +1,16 @@
+---
+layout: emd_misc_type
+status: publish
+published: true
+title: '1644'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+wordpress_id: 1644
+wordpress_url: http://wordpressc.com/?post_type=emd_misc_type&#038;p=1644
+date: 2013-06-01 18:40:25.000000000 -04:00
+categories: []
+tags: []
+comments: []
+---
+

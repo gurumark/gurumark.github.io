@@ -1,0 +1,26 @@
+---
+layout: emd_employee
+status: publish
+published: true
+title: '1102'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: |-
+  FIRST NAME: Gerard
+  LAST NAME: Bondur
+  OFFICE: 4
+  JOB TITLE: Sale Manager (EMEA)
+  EMAIL: gbondur@classicmodelcars.com
+wordpress_id: 11866
+wordpress_url: http://wordpressc.com/?emd_employee=1102
+date: 2013-11-14 18:22:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+FIRST NAME: Gerard
+LAST NAME: Bondur
+OFFICE: 4
+JOB TITLE: Sale Manager (EMEA)
+EMAIL: gbondur@classicmodelcars.com

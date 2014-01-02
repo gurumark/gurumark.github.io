@@ -1,0 +1,26 @@
+---
+layout: emd_order
+status: publish
+published: true
+title: '10232'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: |-
+  ORDER NUMBER: 10232
+  ORDER DATE: 2004-03-20 00:00:00
+  REQUIRED DATE: 2004-03-30 00:00:00
+  SHIPPED DATE: 2004-03-25 00:00:00
+  STATUS: Shipped
+wordpress_id: 11429
+wordpress_url: http://wordpressc.com/?emd_order=10232
+date: 2004-03-27 02:32:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+ORDER NUMBER: 10232
+ORDER DATE: 2004-03-20 00:00:00
+REQUIRED DATE: 2004-03-30 00:00:00
+SHIPPED DATE: 2004-03-25 00:00:00
+STATUS: Shipped

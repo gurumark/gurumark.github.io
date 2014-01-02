@@ -1,0 +1,16 @@
+---
+layout: emd_misc_type
+status: publish
+published: true
+title: '1625'
+author: Attribute Demo User
+author_login: attr_demo
+author_email: attr_demo@emarketdesign.com
+wordpress_id: 1628
+wordpress_url: http://wordpressc.com/emd_misc_type/1625-2/
+date: 2013-06-01 14:04:03.000000000 -04:00
+categories: []
+tags: []
+comments: []
+---
+

@@ -1,0 +1,17 @@
+---
+layout: emd_project
+status: publish
+published: true
+title: BRK43
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: NA
+wordpress_id: 13616
+wordpress_url: http://wordpressc.com/?post_type=emd_project&#038;p=13616
+date: 2013-11-17 18:37:59.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+NA

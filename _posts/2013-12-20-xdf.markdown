@@ -1,0 +1,16 @@
+---
+layout: tribe_filters
+status: publish
+published: true
+title: xdf
+author: Project Manager
+author_login: issues-pm
+author_email: issues-pm@emarketdesign.com
+wordpress_id: 13872
+wordpress_url: http://wordpressc.com/xdf/
+date: 2013-12-20 23:00:45.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+a:1:{s:17:"form_submitted_by";a:2:{s:5:"value";s:5:"hdsjf";s:12:"query_option";s:2:"is";}}

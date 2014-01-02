@@ -1,0 +1,16 @@
+---
+layout: emd_wp_entity
+status: publish
+published: true
+title: Auto Draft
+author: SteelWheels Admin
+author_login: sw-admin
+author_email: demo@emarketdesign.com
+wordpress_id: 739
+wordpress_url: http://wordpressc.com/?post_type=emd_wp_entity&#038;p=739
+date: 2014-01-02 12:05:39.126604000 -05:00
+categories: []
+tags: []
+comments: []
+---
+

@@ -1,0 +1,17 @@
+---
+layout: emd_member
+status: publish
+published: true
+title: 1619 - Tom King
+author: Project Manager
+author_login: issues-pm
+author_email: issues-pm@emarketdesign.com
+excerpt: <br><b>First Name:</b>Tom<br><b>Last Name:</b>King<br><b>Ext:</b>x103
+wordpress_id: 13369
+wordpress_url: http://wordpressc.com/emd_member/1619-tom-king/
+date: 2013-04-29 01:19:30.000000000 -04:00
+categories: []
+tags: []
+comments: []
+---
+<b>Employee Number:</b>1619<br><b>First Name:</b>Tom<br><b>Last Name:</b>King<br><b>Ext:</b>x103<br><b>Job Title:</b>Sales Rep<br><b>Email:</b>tking@classicmodelcars.com

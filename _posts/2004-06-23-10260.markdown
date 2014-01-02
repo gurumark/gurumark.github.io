@@ -1,0 +1,22 @@
+---
+layout: emd_order
+status: publish
+published: true
+title: '10260'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: "ORDER NUMBER: 10260\nORDER DATE: 2004-06-16 00:00:00\nREQUIRED DATE: 2004-06-22
+  00:00:00\nSHIPPED DATE: \nSTATUS: Cancelled"
+wordpress_id: 11457
+wordpress_url: http://wordpressc.com/?emd_order=10260
+date: 2004-06-23 03:00:00.000000000 -04:00
+categories: []
+tags: []
+comments: []
+---
+ORDER NUMBER: 10260
+ORDER DATE: 2004-06-16 00:00:00
+REQUIRED DATE: 2004-06-22 00:00:00
+SHIPPED DATE: 
+STATUS: Cancelled

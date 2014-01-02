@@ -1,0 +1,18 @@
+---
+layout: emd_product
+status: publish
+published: true
+title: 1969 Dodge Charger - S12_4675
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: Detailed model of the 1969 Dodge Charger. This model includes finely detailed
+  interior and exterior features. Painted in red and white.
+wordpress_id: 11638
+wordpress_url: http://wordpressc.com/?emd_product=1969-dodge-charger
+date: 2013-11-19 02:03:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+Detailed model of the 1969 Dodge Charger. This model includes finely detailed interior and exterior features. Painted in red and white.

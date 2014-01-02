@@ -1,0 +1,18 @@
+---
+layout: emd_product
+status: publish
+published: true
+title: 1968 Ford Mustang - S12_1099
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: Hood, doors and trunk all open to reveal highly detailed interior features.
+  Steering wheel actually turns the front wheels. Color dark green.
+wordpress_id: 11629
+wordpress_url: http://wordpressc.com/?emd_product=1968-ford-mustang
+date: 2013-11-14 01:08:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+Hood, doors and trunk all open to reveal highly detailed interior features. Steering wheel actually turns the front wheels. Color dark green.

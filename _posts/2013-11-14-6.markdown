@@ -1,0 +1,22 @@
+---
+layout: emd_office
+status: publish
+published: true
+title: '6'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: "OFFICE CODE: 6\nPHONE: +61 2 9264 2451\nCITY: Sydney\nSTATE: \nTERRITORY:
+  APAC"
+wordpress_id: 11860
+wordpress_url: http://wordpressc.com/?emd_office=6
+date: 2013-11-14 00:06:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+OFFICE CODE: 6
+PHONE: +61 2 9264 2451
+CITY: Sydney
+STATE: 
+TERRITORY: APAC

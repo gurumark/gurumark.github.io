@@ -1,0 +1,26 @@
+---
+layout: emd_order
+status: publish
+published: true
+title: '10283'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: |-
+  ORDER NUMBER: 10283
+  ORDER DATE: 2004-08-20 00:00:00
+  REQUIRED DATE: 2004-08-30 00:00:00
+  SHIPPED DATE: 2004-08-23 00:00:00
+  STATUS: Shipped
+wordpress_id: 11480
+wordpress_url: http://wordpressc.com/?emd_order=10283
+date: 2004-08-27 03:23:00.000000000 -04:00
+categories: []
+tags: []
+comments: []
+---
+ORDER NUMBER: 10283
+ORDER DATE: 2004-08-20 00:00:00
+REQUIRED DATE: 2004-08-30 00:00:00
+SHIPPED DATE: 2004-08-23 00:00:00
+STATUS: Shipped

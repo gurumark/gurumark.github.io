@@ -1,0 +1,17 @@
+---
+layout: emd_issue
+status: publish
+published: true
+title: '#729'
+author: Project Manager
+author_login: issues-pm
+author_email: issues-pm@emarketdesign.com
+excerpt: openid
+wordpress_id: 13417
+wordpress_url: http://wordpressc.com/emd_issue/729/
+date: 2013-04-29 02:56:36.000000000 -04:00
+categories: []
+tags: []
+comments: []
+---
+non-openid website not accepted

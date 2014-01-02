@@ -1,0 +1,26 @@
+---
+layout: emd_order
+status: publish
+published: true
+title: '10251'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: |-
+  ORDER NUMBER: 10251
+  ORDER DATE: 2004-05-18 00:00:00
+  REQUIRED DATE: 2004-05-24 00:00:00
+  SHIPPED DATE: 2004-05-24 00:00:00
+  STATUS: Shipped
+wordpress_id: 11448
+wordpress_url: http://wordpressc.com/?emd_order=10251
+date: 2004-05-25 02:51:00.000000000 -04:00
+categories: []
+tags: []
+comments: []
+---
+ORDER NUMBER: 10251
+ORDER DATE: 2004-05-18 00:00:00
+REQUIRED DATE: 2004-05-24 00:00:00
+SHIPPED DATE: 2004-05-24 00:00:00
+STATUS: Shipped

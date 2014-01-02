@@ -1,0 +1,26 @@
+---
+layout: emd_employee
+status: publish
+published: true
+title: '1611'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: |-
+  FIRST NAME: Andy
+  LAST NAME: Fixter
+  OFFICE: 6
+  JOB TITLE: Sales Rep
+  EMAIL: afixter@classicmodelcars.com
+wordpress_id: 11879
+wordpress_url: http://wordpressc.com/?emd_employee=1611
+date: 2013-11-15 02:51:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+FIRST NAME: Andy
+LAST NAME: Fixter
+OFFICE: 6
+JOB TITLE: Sales Rep
+EMAIL: afixter@classicmodelcars.com

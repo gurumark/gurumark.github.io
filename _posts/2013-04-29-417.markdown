@@ -1,0 +1,17 @@
+---
+layout: emd_issue
+status: publish
+published: true
+title: '#417'
+author: Project Manager
+author_login: issues-pm
+author_email: issues-pm@emarketdesign.com
+excerpt: wp-contact-form
+wordpress_id: 13387
+wordpress_url: http://wordpressc.com/emd_issue/417/
+date: 2013-04-29 02:56:20.000000000 -04:00
+categories: []
+tags: []
+comments: []
+---
+Not showing senders e-mail adress

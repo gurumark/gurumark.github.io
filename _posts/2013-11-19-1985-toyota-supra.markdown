@@ -1,0 +1,20 @@
+---
+layout: emd_product
+status: publish
+published: true
+title: 1985 Toyota Supra - S18_3233
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: This model features soft rubber tires, working steering, rubber mud guards,
+  authentic Ford logos, detailed undercarriage, opening doors and hood, removable
+  split rear gate, full size spare mounted in bed, detailed interior with opening
+  glove box
+wordpress_id: 11663
+wordpress_url: http://wordpressc.com/?emd_product=1985-toyota-supra
+date: 2013-11-19 08:53:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+This model features soft rubber tires, working steering, rubber mud guards, authentic Ford logos, detailed undercarriage, opening doors and hood, removable split rear gate, full size spare mounted in bed, detailed interior with opening glove box

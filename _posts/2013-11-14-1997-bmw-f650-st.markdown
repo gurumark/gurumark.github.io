@@ -1,0 +1,17 @@
+---
+layout: emd_product
+status: publish
+published: true
+title: 1997 BMW F650 ST - S32_1374
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: Features official die-struck logos and baked enamel finish. Comes with stand.
+wordpress_id: 11708
+wordpress_url: http://wordpressc.com/?emd_product=1997-bmw-f650-st
+date: 2013-11-14 02:58:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+Features official die-struck logos and baked enamel finish. Comes with stand.

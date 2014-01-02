@@ -1,0 +1,17 @@
+---
+layout: emd_member
+status: publish
+published: true
+title: 1337 - Loui Bondur
+author: Project Manager
+author_login: issues-pm
+author_email: issues-pm@emarketdesign.com
+excerpt: <br><b>First Name:</b>Loui<br><b>Last Name:</b>Bondur<br><b>Ext:</b>x6493
+wordpress_id: 13362
+wordpress_url: http://wordpressc.com/emd_member/1337-loui-bondur/
+date: 2013-04-29 01:19:27.000000000 -04:00
+categories: []
+tags: []
+comments: []
+---
+<b>Employee Number:</b>1337<br><b>First Name:</b>Loui<br><b>Last Name:</b>Bondur<br><b>Ext:</b>x6493<br><b>Job Title:</b>Sales Rep<br><b>Email:</b>lbondur@classicmodelcars.com

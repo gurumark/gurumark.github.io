@@ -1,0 +1,18 @@
+---
+layout: emd_product
+status: publish
+published: true
+title: 1911 Ford Town Car - S18_2248
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: Features opening hood, opening doors, opening trunk, wide white wall tires,
+  front door arm rests, working steering system.
+wordpress_id: 11649
+wordpress_url: http://wordpressc.com/?emd_product=1911-ford-town-car
+date: 2013-11-14 09:00:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+Features opening hood, opening doors, opening trunk, wide white wall tires, front door arm rests, working steering system.

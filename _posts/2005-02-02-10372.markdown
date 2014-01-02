@@ -1,0 +1,26 @@
+---
+layout: emd_order
+status: publish
+published: true
+title: '10372'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: |-
+  ORDER NUMBER: 10372
+  ORDER DATE: 2005-01-26 00:00:00
+  REQUIRED DATE: 2005-02-05 00:00:00
+  SHIPPED DATE: 2005-01-28 00:00:00
+  STATUS: Shipped
+wordpress_id: 11569
+wordpress_url: http://wordpressc.com/?emd_order=10372
+date: 2005-02-02 04:52:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+ORDER NUMBER: 10372
+ORDER DATE: 2005-01-26 00:00:00
+REQUIRED DATE: 2005-02-05 00:00:00
+SHIPPED DATE: 2005-01-28 00:00:00
+STATUS: Shipped

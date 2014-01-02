@@ -1,0 +1,26 @@
+---
+layout: emd_order
+status: publish
+published: true
+title: '10280'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: |-
+  ORDER NUMBER: 10280
+  ORDER DATE: 2004-08-17 00:00:00
+  REQUIRED DATE: 2004-08-27 00:00:00
+  SHIPPED DATE: 2004-08-19 00:00:00
+  STATUS: Shipped
+wordpress_id: 11477
+wordpress_url: http://wordpressc.com/?emd_order=10280
+date: 2004-08-24 03:20:00.000000000 -04:00
+categories: []
+tags: []
+comments: []
+---
+ORDER NUMBER: 10280
+ORDER DATE: 2004-08-17 00:00:00
+REQUIRED DATE: 2004-08-27 00:00:00
+SHIPPED DATE: 2004-08-19 00:00:00
+STATUS: Shipped

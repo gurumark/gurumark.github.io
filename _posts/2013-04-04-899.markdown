@@ -1,0 +1,16 @@
+---
+layout: emd_people
+status: publish
+published: true
+title: '899'
+author: SteelWheels Admin
+author_login: sw-admin
+author_email: demo@emarketdesign.com
+wordpress_id: 899
+wordpress_url: http://wordpressc.com/?post_type=emd_people&#038;p=899
+date: 2013-04-04 04:26:17.000000000 -04:00
+categories: []
+tags: []
+comments: []
+---
+

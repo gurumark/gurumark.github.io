@@ -1,0 +1,26 @@
+---
+layout: emd_employee
+status: publish
+published: true
+title: '1166'
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: |-
+  FIRST NAME: Leslie
+  LAST NAME: Thompson
+  OFFICE: 1
+  JOB TITLE: Sales Rep
+  EMAIL: lthompson@classicmodelcars.com
+wordpress_id: 11869
+wordpress_url: http://wordpressc.com/?emd_employee=1166
+date: 2013-11-14 19:26:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+FIRST NAME: Leslie
+LAST NAME: Thompson
+OFFICE: 1
+JOB TITLE: Sales Rep
+EMAIL: lthompson@classicmodelcars.com

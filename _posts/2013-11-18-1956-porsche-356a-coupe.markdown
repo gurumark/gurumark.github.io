@@ -1,0 +1,18 @@
+---
+layout: emd_product
+status: publish
+published: true
+title: 1956 Porsche 356A Coupe - S24_3856
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: 'Features include: Turnable front wheels; steering function; detailed interior;
+  detailed engine; opening hood; opening trunk; opening doors; and detailed chassis.'
+wordpress_id: 11700
+wordpress_url: http://wordpressc.com/?emd_product=1956-porsche-356a-coupe
+date: 2013-11-18 14:00:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+Features include: Turnable front wheels; steering function; detailed interior; detailed engine; opening hood; opening trunk; opening doors; and detailed chassis.

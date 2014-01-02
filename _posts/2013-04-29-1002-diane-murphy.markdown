@@ -1,0 +1,17 @@
+---
+layout: emd_member
+status: publish
+published: true
+title: 1002 - Diane Murphy
+author: Project Manager
+author_login: issues-pm
+author_email: issues-pm@emarketdesign.com
+excerpt: <br><b>First Name:</b>Diane<br><b>Last Name:</b>Murphy<br><b>Ext:</b>x5800
+wordpress_id: 13350
+wordpress_url: http://wordpressc.com/emd_member/1002-diane-murphy/
+date: 2013-04-29 01:19:22.000000000 -04:00
+categories: []
+tags: []
+comments: []
+---
+<b>Employee Number:</b>1002<br><b>First Name:</b>Diane<br><b>Last Name:</b>Murphy<br><b>Ext:</b>x5800<br><b>Job Title:</b>President<br><b>Email:</b>dmurphy@classicmodelcars.com

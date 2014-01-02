@@ -1,0 +1,18 @@
+---
+layout: emd_product
+status: publish
+published: true
+title: 1997 BMW R 1100 S - S24_1578
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: Detailed scale replica with working suspension and constructed from over
+  70 parts
+wordpress_id: 11680
+wordpress_url: http://wordpressc.com/?emd_product=1997-bmw-r-1100-s
+date: 2013-11-18 20:43:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+Detailed scale replica with working suspension and constructed from over 70 parts

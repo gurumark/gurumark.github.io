@@ -1,0 +1,17 @@
+---
+layout: emd_issue
+status: publish
+published: true
+title: '#1561'
+author: Project Manager
+author_login: issues-pm
+author_email: issues-pm@emarketdesign.com
+excerpt: wp-admin-switcher
+wordpress_id: 13381
+wordpress_url: http://wordpressc.com/emd_issue/1561/
+date: 2013-04-29 02:56:18.000000000 -04:00
+categories: []
+tags: []
+comments: []
+---
+WP3..4.1 DL/D PLUGIN N DELETED IT SCRIPT NOT WORKING ADMIN

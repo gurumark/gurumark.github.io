@@ -1,0 +1,19 @@
+---
+layout: emd_product
+status: publish
+published: true
+title: 1965 Aston Martin DB5 - S18_1589
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: Die-cast model of the silver 1965 Aston Martin DB5 in silver. This model
+  includes full wire wheels and doors that open with fully detailed passenger compartment.
+  In 1:18 scale, this model measures approximately 10 inches/20 cm long.
+wordpress_id: 11643
+wordpress_url: http://wordpressc.com/?emd_product=1965-aston-martin-db5
+date: 2013-11-20 06:42:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+Die-cast model of the silver 1965 Aston Martin DB5 in silver. This model includes full wire wheels and doors that open with fully detailed passenger compartment. In 1:18 scale, this model measures approximately 10 inches/20 cm long.

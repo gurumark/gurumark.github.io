@@ -1,0 +1,17 @@
+---
+layout: emd_member
+status: publish
+published: true
+title: 1286 - Foon Yue Tseng
+author: Project Manager
+author_login: issues-pm
+author_email: issues-pm@emarketdesign.com
+excerpt: <br><b>First Name:</b>Foon Yue<br><b>Last Name:</b>Tseng<br><b>Ext:</b>x2248
+wordpress_id: 13360
+wordpress_url: http://wordpressc.com/emd_member/1286-foon-yue-tseng/
+date: 2013-04-29 01:19:26.000000000 -04:00
+categories: []
+tags: []
+comments: []
+---
+<b>Employee Number:</b>1286<br><b>First Name:</b>Foon Yue<br><b>Last Name:</b>Tseng<br><b>Ext:</b>x2248<br><b>Job Title:</b>Sales Rep<br><b>Email:</b>ftseng@classicmodelcars.com

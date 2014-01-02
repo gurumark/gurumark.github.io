@@ -1,0 +1,22 @@
+---
+layout: emd_customer
+status: publish
+published: true
+title: Nat
+author: make-your-life-simple
+author_login: picky-demo-admin
+author_email: admin@emarketdesign.com
+excerpt: "CUSTOMER NUMBER: 223\nFIRST NAME: Horst \nLAST NAME: Kloss\nPHONE: 0372-555188\nCREDIT
+  LIMIT: 0"
+wordpress_id: 11774
+wordpress_url: http://wordpressc.com/?emd_customer=nat
+date: 2013-11-14 03:43:00.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+CUSTOMER NUMBER: 223
+FIRST NAME: Horst 
+LAST NAME: Kloss
+PHONE: 0372-555188
+CREDIT LIMIT: 0

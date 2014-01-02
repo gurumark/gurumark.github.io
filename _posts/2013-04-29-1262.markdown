@@ -1,0 +1,17 @@
+---
+layout: emd_issue
+status: publish
+published: true
+title: '#1262'
+author: Project Manager
+author_login: issues-pm
+author_email: issues-pm@emarketdesign.com
+excerpt: plugin-downloads
+wordpress_id: 13391
+wordpress_url: http://wordpressc.com/emd_issue/1262/
+date: 2013-04-29 02:56:22.000000000 -04:00
+categories: []
+tags: []
+comments: []
+---
+Fatal error: Warning: while updating 2 plugins?

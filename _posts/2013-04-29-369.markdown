@@ -1,0 +1,17 @@
+---
+layout: emd_issue
+status: publish
+published: true
+title: '#369'
+author: Project Manager
+author_login: issues-pm
+author_email: issues-pm@emarketdesign.com
+excerpt: wp-shortstat
+wordpress_id: 13396
+wordpress_url: http://wordpressc.com/emd_issue/369/
+date: 2013-04-29 02:56:25.000000000 -04:00
+categories: []
+tags: []
+comments: []
+---
+wp-shortstat 1.3 doesn't work for WP 2.0.1
